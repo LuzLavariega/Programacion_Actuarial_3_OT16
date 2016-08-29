@@ -10,52 +10,51 @@ output: html_document:
 ## Otoño 2013
 
 ### Lista de materias
-*Introducción a la Profesión actuarial 7
-*DHPC 10
-*Conceptos de cálculo 7
-*Matemáticas básicas 7
-*Problemas de matemáticas básicas 7
+* Introduccion a la Profesion actuarial 7
+* DHPC 10
+* Conceptos de calculo 7
+* Matematicas basicas 7
+* Problemas de matematicas basicas 7
 
 ## Primavera 2014
 
 ### Lista de materias
-*Programación actuarial I 8
-*Microeconomía 10
-*Formación humana y social 8
-*Teoría del interés 8
+* Programacian actuarial I 8
+* Microeconomaa 10
+* Formacian humana y social 8
+* Teoria del interes 8
 
 ## Otoño 2014
 
 ### Lista de materias
-*Macroeconomía 8
-*Lengua extrangera I 10
-*Lengua extrangera II 10 
-*Cálculo diferencial 8
-*Teoría de ecuaciones 10
+* Macroeconomia 8
+* Lengua extrangera I 10
+* Lengua extrangera II 10 
+* Calculo diferencial 8
+* Teoraa de ecuaciones 10
 
 ## Primavera 2014
 
 ### Lista de materias
-*Teroría del interés II 8
-*DHTICS 9
-*Lengua extrangera III 9
-*Cálculo integral 7
-*Algebra lineal 8
+* Teroria del interes II 8
+* DHTICS 9
+* Lengua extrangera III 9
+* Calculo integral 7
+* Algebra lineal 8
 
 ## Otoño 2015
 
 ### Lista de materias
-*Programación actuarial II 9
-*Sistema financiero mexicano 10
-*Demografía 7
-*Ecuaciones diferenciales I 8
+* Programacion actuarial II 9
+* Sistema financiero mexicano 10
+* Demografia 7
+* Ecuaciones diferenciales I 8
 
 ## Primavera 2016
 
 ### Lista de materias
-*Contabilidad general 8
-*Matemáticas actuariales I 8
-*Derivados financieros 9
-*Registros académicos y cientificos del español 9
-*Cálculo diferencial en varias variables 9
-
+* Contabilidad general 8
+* Matematicas actuariales I 8
+* Derivados financieros 9
+* Registros academicos y cientificos del español 9
+* Calculo diferencial en varias variables 9

@@ -1,61 +1,61 @@
 ---
-
-title: "Kardex"
-author: "Luz Neydy Lavariega Enriquez"
+title: "Luz - Kardex"
+author: "Luz Lavariega"
 date: "29 de agosto de 2016"
-output: html_document:
-    theme: cerulean
+output: html_document
+theme: cerulean
 ---
 
-## Otoño 2013
+#Kardex Simple
 
-### Lista de materias
-*Introducción a la Profesión actuarial 7
-*DHPC 10
-*Conceptos de cálculo 7
-*Matemáticas básicas 7
-*Problemas de matemáticas básicas 7
+##Otoño 2013
 
-## Primavera 2014
+###Lista de materias/ Calificaciones
+* Introducción a la Profesion actuarial 7
+* DHPC 10
+* Conceptos de cálculo 7
+* Matemáticas básicas 7
+* Problemas de matemáticas básicas 7
 
-### Lista de materias
-*Programación actuarial I 8
-*Microeconomía 10
-*Formación humana y social 8
-*Teoría del interés 8
+##Primavera 2014
 
-## Otoño 2014
+###Lista de materias/ Calificaciones
+* Programación actuarial I 8
+* Microeconomía 10
+* Formación humana y social 8
+* Teoría del interés 8
 
-### Lista de materias
-*Macroeconomía 8
-*Lengua extrangera I 10
-*Lengua extrangera II 10 
-*Cálculo diferencial 8
-*Teoría de ecuaciones 10
+##Otoño 2014
 
-## Primavera 2014
+###Lista de materias/ Calificaciones
+* Macroeconomía 8
+* Lengua extrangera I 10
+* Lengua extrangera II 10 
+* Cálculo diferencial 8
+* Teoría de ecuaciones 10
 
-### Lista de materias
-*Teroría del interés II 8
-*DHTICS 9
-*Lengua extrangera III 9
-*Cálculo integral 7
-*Algebra lineal 8
+##Primavera 2015
 
-## Otoño 2015
+###Lista de materias/ Calificaciones
+* Teroría del interés II 8
+* DHTICS 9
+* Lengua extrangera III 9
+* Cálculo integral 7
+* Algebra lineal 8
 
-### Lista de materias
-*Programación actuarial II 9
-*Sistema financiero mexicano 10
-*Demografía 7
-*Ecuaciones diferenciales I 8
+##Otoño 2015
 
-## Primavera 2016
+###Lista de materias/ Calificaciones
+* Programación actuarial II 9
+* Sistema financiero mexicano 10
+* Demografía 7
+* Ecuaciones diferenciales I 8
 
-### Lista de materias
-*Contabilidad general 8
-*Matemáticas actuariales I 8
-*Derivados financieros 9
-*Registros académicos y cientificos del español 9
-*Cálculo diferencial en varias variables 9
+##Primavera 2016
 
+###Lista de materias/ Calificaciones
+* Contabilidad general 8
+* Matemáticas actuariales I 8
+* Derivados financieros 9
+* Registros academicos y cientificos del español 9
+* Cálculo diferencial en varias variables 9
